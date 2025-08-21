@@ -51,7 +51,6 @@ As a Full Stack Developer with over 5 years of experience, I specialize in desig
 
 ![](https://github-readme-stats.vercel.app/api?username=asimmiqbal04&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asimmiqbal04&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asimmiqbal04&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
