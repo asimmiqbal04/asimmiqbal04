@@ -1,56 +1,52 @@
 Hi 👋 My name is Asim Iqbal
 ==============================
 
-Senior Full Stack Developer
+Senior Full Stack Developer | Problem Solver | Tech Enthusiast
 --------------------
+As a **Full Stack Developer** with **8+ years of experience**, I specialize in designing, developing, and maintaining **modern web applications** from scratch.  
+My expertise spans across **front-end** and **back-end** technologies, enabling me to deliver **scalable, high-performance, and user-centric solutions**.  
 
-As a Full Stack Developer with over 8+ years of experience, I specialize in designing, developing, and maintaining web applications from the ground up. My expertise spans both front-end and back-end technologies, enabling me to deliver high-quality, user-friendly, and scalable solutions. From crafting intuitive user interfaces to optimizing server-side logic, I have a comprehensive understanding of the entire web development lifecycle.
+From creating **intuitive user interfaces** to **optimizing server-side architectures**, I bring a deep understanding of the entire **web development lifecycle**, ensuring robust and seamless digital experiences.  
+
+---
+
+## 🌟 Highlights  
+- 🧠 Expertise in **Full Stack Development** (Front-end & Back-end)  
+- ⚡ Passionate about **clean, maintainable code** & scalable architecture  
+- 🤝 Open to collaborating on **innovative projects**  
 
 
-* 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01769bb7e2c1d47f3d) Profile
-* ✉️  You can contact me at [asimmiqbal04@gmail.com](mailto:asimmiqbal04@gmail.com)
-* 🧠 Full Stack Developer with expertise in both front-end and back-end technologies.
-* 🤝  I'm open to collaborating on interesting projects
+
+###  📬 Connect with Me<p>
+
+</p>
+
+<div id="user-content-contact-links" align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/asim-iqbal-213a0037b/" rel="nofollow"><img src="https://camo.githubusercontent.com/30447e58862248313a6bdb8992694d71b695199c4ba12f9b452c87cdcedeeeaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" width="100" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
+ 
+<a href="https://www.upwork.com/freelancers/~01769bb7e2c1d47f3d" rel="nofollow"><img src="https://camo.githubusercontent.com/d3c15996eb6bc52181ff06620d844f93ecec0fe2a1e8a5e48f98539bdcbcc32f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5570776f726b2d6461726b677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d7570776f726b266c6f676f436f6c6f723d677265656e" height="28px" width="100" data-canonical-src="https://img.shields.io/badge/Upwork-darkgreen?style=for-the-badge&amp;logo=upwork&amp;logoColor=green" style="max-width: 100%; height: auto; max-height: 28px;"></a>
+<a href="mailto:asimmiqbal04@gmail.com"><img src="https://camo.githubusercontent.com/8a23944a56f8b871680cf2274b78362b3af2aa8528183236079276b181b7f767/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="28px" width="100" data-canonical-src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%; height: auto; max-height: 28px;"></a>
+
+</p>
+</div>
 
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+### 🌟 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" /> </p>
+
+### ⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" /> </p>
+
+### 🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" /> </p>
+
+### ☁️ DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,heroku,git,github,gitlab,vscode,postman" /> </p>
 
 
 ### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=asimmiqbal04&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asimmiqbal04&theme=dark&hide_border=false)
-
-
 
