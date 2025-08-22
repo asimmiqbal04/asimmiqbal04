@@ -1,7 +1,7 @@
 Hi 👋 My name is Asim Iqbal
 ==============================
 
-Full Stack Developer
+Senior Full Stack Developer
 --------------------
 
 As a Full Stack Developer with over 8+ years of experience, I specialize in designing, developing, and maintaining web applications from the ground up. My expertise spans both front-end and back-end technologies, enabling me to deliver high-quality, user-friendly, and scalable solutions. From crafting intuitive user interfaces to optimizing server-side logic, I have a comprehensive understanding of the entire web development lifecycle.
